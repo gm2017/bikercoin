@@ -1,3 +1,4 @@
+### DO NOT USE BEFORE June 7 at 11:11 (ETD) Will not compile anyway
 
 ## Building Bikercoin 
 
